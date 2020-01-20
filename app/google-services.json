@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673863465917",
+    "firebase_url": "https://memosonline-2a6da.firebaseio.com",
+    "project_id": "memosonline-2a6da",
+    "storage_bucket": "memosonline-2a6da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673863465917:android:fd4af3ae86c7d3f2e0b0d4",
+        "android_client_info": {
+          "package_name": "com.gaurav.onmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673863465917-k2tp9f9g5ve8930v195076s3667t4qtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.onmemo",
+            "certificate_hash": "b198f86fe9777918b0e6ccb9b115e754f34ccbdb"
+          }
+        },
+        {
+          "client_id": "673863465917-9d2obqlhhl7bvad9gda70usmra74empk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb8-NNeN01vItdco_S_5_UvgbhMakRdyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673863465917-9d2obqlhhl7bvad9gda70usmra74empk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
